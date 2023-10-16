@@ -20,4 +20,4 @@ I Created 5 pages of it. <br/>
 
 `style.css` is the CSS file <br/>
 
-`index.html` is the HTML file <br/>
+`media.css` is the Media Query file <br/>
